@@ -4,7 +4,9 @@ PhiASM
 ```
 # PhiASM
 
-**PhiASM** to nowoczesny, modularny interpreter i REPL dla języka niskiego poziomu nowej generacji. Łączy zwięzłość i ekspresję makr z czytelnością oraz bezpieczeństwem typowym dla wyższych języków. Idealny do nauki, eksperymentów oraz jako podstawa własnych języków blisko sprzętu.
+**PhiASM** to nowoczesny, modularny interpreter i REPL dla języka niskiego poziomu nowej generacji.
+Łączy zwięzłość i ekspresję makr z czytelnością oraz bezpieczeństwem typowym dla wyższych języków.
+Idealny do nauki, eksperymentów oraz jako podstawa własnych języków blisko sprzętu.
 
 ---
 
@@ -144,7 +146,8 @@ Do widzenia!
 
 ## Własne rozszerzenia
 
-Kod jest modularny i łatwo go rozbudować o nowe instrukcje, makra, wsparcie dla GUI/web IDE, animacje działania VM itd.
+Kod jest modularny i łatwo go rozbudować o nowe instrukcje, makra, wsparcie dla GUI/web IDE, 
+animacje działania VM itd.
 
 ---
 
